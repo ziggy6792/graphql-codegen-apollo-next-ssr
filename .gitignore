@@ -1,0 +1,7 @@
+node_modules
+build
+.vscode
+node_modules/*
+test/generated.ts
+.next
+.DS_Store
